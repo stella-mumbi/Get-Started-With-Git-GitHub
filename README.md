@@ -28,19 +28,25 @@ git add .
 git commit -m "Enter the commit message"
 ```
 
-5. Create a repository on Github
+5. Check your commit history
 
-6. Link remote GitHub repository to your local repository using the following command
+```
+git log
+```
+
+6. Create a repository on Github
+
+7. Link remote GitHub repository to your local repository using the following command
 
 ```
 git remote add origin <remote-url>
 ```
 
-7. Push to GitHub
+8. Push to GitHub
 
 ```
 git push origin <branch-name>
 ```
 
-8. Refresh your page on GitHub to see the changes
+9. Refresh your page on GitHub to see the changes
 
